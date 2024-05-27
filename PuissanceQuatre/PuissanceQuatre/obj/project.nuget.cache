@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6Wo3NCthXyBrp2DrEEYltqout4IFzp7M7T5NDU/YW4NrfCo4NDo2cEt1VhTx2q2EkjLiRY1gHbo2jSMVuF7Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\PuissanceQuatre\\PuissanceQuatre\\PuissanceQuatre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

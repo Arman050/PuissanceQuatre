@@ -1,0 +1,90 @@
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.exe
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.deps.json
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.runtimeconfig.json
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfo.cs
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\refint\PuissanceQuatre.dll
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.genruntimeconfig.cache
+C:\Users\Student\Documents\VS\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\ref\PuissanceQuatre.dll
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.exe
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.deps.json
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.runtimeconfig.json
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfo.cs
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\refint\PuissanceQuatre.dll
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.genruntimeconfig.cache
+C:\Users\Student\Documents\arman\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\ref\PuissanceQuatre.dll
+D:\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.exe
+D:\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.deps.json
+D:\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.runtimeconfig.json
+D:\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.dll
+D:\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.pdb
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.GeneratedMSBuildEditorConfig.editorconfig
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfoInputs.cache
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfo.cs
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.CoreCompileInputs.cache
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.dll
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\refint\PuissanceQuatre.dll
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.pdb
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.genruntimeconfig.cache
+D:\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\ref\PuissanceQuatre.dll
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.exe
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.deps.json
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.runtimeconfig.json
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfo.cs
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\refint\PuissanceQuatre.dll
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.genruntimeconfig.cache
+C:\Users\Student\Documents\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\ref\PuissanceQuatre.dll
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.exe
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.deps.json
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.runtimeconfig.json
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfo.cs
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.dll
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\refint\PuissanceQuatre.dll
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.pdb
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.genruntimeconfig.cache
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\ref\PuissanceQuatre.dll
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\Puissanc.425AC4C3.Up2Date
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.exe
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.deps.json
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.runtimeconfig.json
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.dll
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\PuissanceQuatre.pdb
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.AssemblyReference.cache
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfoInputs.cache
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.AssemblyInfo.cs
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.csproj.CoreCompileInputs.cache
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\Puissanc.425AC4C3.Up2Date
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.dll
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\refint\PuissanceQuatre.dll
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.pdb
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\PuissanceQuatre.genruntimeconfig.cache
+D:\Cours\C Sharp\PuissanceQuatre\PuissanceQuatre\obj\Debug\net7.0\ref\PuissanceQuatre.dll
